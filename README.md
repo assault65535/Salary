@@ -1,2 +1,2 @@
 # Salary
-Imperfect implementation of design patterns
+Naive implementation of design patterns
